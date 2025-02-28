@@ -1,3 +1,5 @@
+//This project was created by Julian Reinstein, aka TheRealJReinstein.
+
 import java.util.Scanner;
 import java.util.ArrayList;
 
